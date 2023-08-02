@@ -25,7 +25,7 @@ public class JavaFXCalculator extends Application {
 	//Setting Calculator UIs
 	static TextField textfield = new TextField();
 	static BorderPane border = new BorderPane();
-	static Image image = new Image("/application/calculatorImage.jpg");
+	static Image image = new Image("/main/calculatorImage.jpg");
 	
 	public static void main(String[] args) {
 		launch(args);
